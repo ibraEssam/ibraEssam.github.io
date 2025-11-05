@@ -11,11 +11,3 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: truthaboutpalestine
-  icon: "fas fa-hand-peace" # icons powered by <https://fontawesome.com/>
-  url: "https://truthaboutpalestine.com/" # Fill with your Mastodon account page, rel="me" will be applied for verification
-
-- type: stand-with-palestine
-  icon: "fas fa-hand-fist" # icons powered by <https://fontawesome.com/>
-  url: "https://stand-with-palestine.org/" # Fill with your Mastodon account page, rel="me" will be applied for verification
-

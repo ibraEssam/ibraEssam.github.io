@@ -18,7 +18,7 @@ toc: true
 * Owning all tech-product meetings to align features, feasibility, and timelines.
 * Supporting deployments with tuning, sensor setup, and field validation.
 * Leading sensor calibration and multi-sensor time synchronization efforts to improve navigation accuracy and system robustness.
-* Managing CI/CD for ROS2 packages with DevOps to ensure stability and speed.
+* Building simulations with Isaac Sim and NVIDIA Omniverse, utilizing OpenUSD and gaussian splatting to create realistic environments.
 
 <i class="fa fa-terminal"></i> Leadership, Architecture, Navigation Systems, ROS2, C++, Python. 
 
