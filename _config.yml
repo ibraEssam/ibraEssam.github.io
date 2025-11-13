@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://hemaz.github.io"
+url: "https://ibraEssam.github.io"
 
 github:
-  username: HemaZ # change to your github username
+  username: ibraEssam # change to your github username
 
 social:
   # Change to your full name.
@@ -36,7 +36,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/ibrahimessam
-    - https://twitter.com/hemaz95 # change to your twitter homepage
+    - https://twitter.com/ibraEssam95 # change to your twitter homepage
     - https://github.com/ibraEssam # change to your github homepage
 
 google_site_verification: # fill in to your verification string
@@ -77,7 +77,7 @@ comments:
   active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: hemaz
+    shortname: ibraEssam
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
