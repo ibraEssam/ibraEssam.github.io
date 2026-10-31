@@ -8,11 +8,25 @@ toc: true
 
 ## Experience
 
+### Senior Robotics Engineer @ Cellular Origins
+<i class="fa fa-calendar"></i> 04/2026 – 10/2026 &emsp; <i class="fa fa-map-marker"></i> Cambridge/UK
+
+* Built a factor graph (using GTSAM) optimization pipeline to fuse multi-view camera marker detection, achieving sub-millimeter localization accuracy for mobile manipulators.
+
+* Designed and implemented a localization benchmarking pipeline from the ground up to track, measure, and validate micrometer-level error and system precision.
+
+* Improved existing robotic and hand-eye (TCP) calibration workflows to increase vision-based spatial precision.
+
+* Introduced a Dev Container-based development environment, simplifying setup and accelerating ROS2 stack debugging across the team.
+
+* Defined clear ROS2 package ownership boundaries and established coding standards, significantly improving modularity and repository maintainability.
+
+
 ### Senior Software Engineer @ Kudan 
-<i class="fa fa-calendar"></i> 07/2025 – Ongoing &emsp; <i class="fa fa-map-marker"></i> Bristol/UK
+<i class="fa fa-calendar"></i> 07/2025 – 03/2026 &emsp; <i class="fa fa-map-marker"></i> Bristol/UK
 
 #### Navigation Technical Lead
-<i class="fa fa-calendar"></i> 07/2025 – Ongoing &emsp;
+<i class="fa fa-calendar"></i> 07/2025 – 03/2026 &emsp;
 
 * Leading a team of robotics engineers building ROS2-based navigation and SLAM systems.
 * Owning all tech-product meetings to align features, feasibility, and timelines.
